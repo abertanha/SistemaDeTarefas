@@ -64,9 +64,11 @@ Integrações com Ferramentas Populares: Parcerias com outras plataformas corpor
 
 **Análise de Mercado**
 
-Projeções Financeiras: Expectativa de crescimento gradual no número de assinantes, com projeção de receita substancial a partir da conversão de usuários gratuitos para pagos.
+**Personas:**[![Personas](https://travis-ci.org/joemccann/dillinger.svg?branch=master)]([https://travis-ci.org/joemccann/dillinger](https://teams.microsoft.com/l/message/19:050808dc-24c5-4431-a5bc-22cd799efdf2_842bfe9c-3560-490b-9524-81c2a64f8475@unq.gbl.spaces/1724076754597?context=%7B%22contextType%22%3A%22chat%22%7D))
 
-Desenvolvimento e Manutenção: Investimento contínuo em desenvolvimento, testes e manutenção do aplicativo.
+**Projeções Financeiras:** Expectativa de crescimento gradual no número de assinantes, com projeção de receita substancial a partir da conversão de usuários gratuitos para pagos.
+
+**Desenvolvimento e Manutenção:** Investimento contínuo em desenvolvimento, testes e manutenção do aplicativo.
 
 **Conclusão**
 
