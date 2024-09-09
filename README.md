@@ -65,6 +65,7 @@ Integrações com Ferramentas Populares: Parcerias com outras plataformas corpor
 **Análise de Mercado**
 
 👤[Link para Personas](https://docs.google.com/document/d/1fNkQmFQEOTy3LA3KG4qzzvHI9bmsF7Vtp73uGToEsMA/edit?usp=sharing)
+📖[Link para Jornada do Usuário](https://docs.google.com/document/d/1JXlf-x_lx9ghaJWl8Avbm8CwX0MZrgw7Xj_oV2I60nY/edit?usp=sharing) 
 
 **Projeções Financeiras:** Expectativa de crescimento gradual no número de assinantes, com projeção de receita substancial a partir da conversão de usuários gratuitos para pagos.
 
