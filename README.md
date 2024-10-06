@@ -9,8 +9,6 @@ Esse projeto tem como objetivo da obtenção parcial da aprovação  na matéria
 >
 >Clara Ricioni Bergamo
 >
->Felipe Diniz
->
 >Filipe Moura
 > 
 # Resumo
@@ -50,6 +48,8 @@ O mercado de software de produtividade e gerenciamento de tarefas está em cresc
 
 **Visão Geral do Produto**
 O produto proposto é um aplicativo de gerenciamento de tarefas que combina funcionalidades de organização e colaboração para oferecer uma experiência de usuário envolvente e eficiente. O objetivo é criar uma solução que não apenas ajude os usuários a gerenciar suas tarefas diárias, mas também a melhorar sua produtividade de maneira divertida e personalizada.
+
+📝[Prototipo de Baixa Fidelidade](https://github.com/abertanha/SistemaDeTarefas/blob/main/docs/BaixaFidelidade/WhatsApp%20Image%202024-10-06%20at%2018.13.57.jpeg)
 
 **Planos de Comercialização**
 
