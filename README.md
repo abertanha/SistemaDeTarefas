@@ -5,7 +5,7 @@ Esse projeto tem como objetivo da obtenção parcial da aprovação  na matéria
 # Membros:
 >Adriano Bertanha (dono do repositório)
 >
->Cauã Rodrigues Vianna
+>Cauã Rodrigues Viana
 >
 >Clara Ricioni Bergamo
 >
