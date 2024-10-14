@@ -76,7 +76,7 @@ Integrações com Ferramentas Populares: Parcerias com outras plataformas corpor
 
 O aplicativo de gerenciamento de tarefas e produtividade proposto visa atender à crescente demanda por soluções de produtividade com uma abordagem inovadora e interativa. Com um modelo de negócios baseado em assinatura Pro, aliado a uma estratégia de marketing eficaz baseada em sua versão gratutia e uma análise de mercado detalhada, o aplicativo está bem posicionado para capturar uma parte significativa do mercado e gerar receitas sustentáveis.
 
-
+📹[Link para apresentação parcial do projeto](https://youtu.be/XvmGAFK6ChM)
 
 
 
