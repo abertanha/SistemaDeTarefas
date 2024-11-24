@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Focus Task - Home</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            background-color: #f8f9fa;
+        }
+
+        .navbar {
+            background-color: white;
+            padding: 1rem 2rem;
+            border-bottom: 1px solid #e5e7eb;
+        }
+
+        .brand {
+            display: flex;
+            align-items: center;
+            text-decoration: none;
+            margin-right: 2rem;
+        }
+
+        .focus-text {
+            color: #3B82F6;
+            font-weight: 600;
+        }
+
+        .task-text {
+            color: #1F2937;
+            font-weight: 600;
+        }
+
+        .nav-link {
+            color: #4B5563;
+            text-decoration: none;
+            padding: 0.5rem 1rem;
+        }
+
+        .nav-link.active {
+            color: #1F2937;
+            font-weight: 500;
+        }
+
+        .search-container {
+            position: relative;
+            width: 300px;
+        }
+
+        .search-input {
+            width: 100%;
+            padding: 0.5rem 1rem;
+            border: 1px solid #e5e7eb;
+            border-radius: 9999px;
+            background-color: #f9fafb;
+        }
+
+        .main-content {
+            margin-top: 2rem;
+            padding: 0 2rem;
+        }
+
+        .focus-text {
+            color: #3B82F6;
+            font-weight: bold;
+        }
+
+        .task-text {
+            color: #1F2937;
+            font-weight: bold;
+        }
+
+        /* Navigation styles */
+        .active-nav {
+            font-weight: 500;
+        }
+
+        /* Card and hover styles */
+        .hover-bg-light:hover {
+            background-color: #f8f9fa;
+            transition: background-color 0.2s;
+        }
+
+        /* Timeline specific styles */
+        .timeline-item {
+            position: relative;
+            padding-left: 1.5rem;
+            margin-bottom: 1.5rem;
+            border-left: 2px solid #dee2e6;
+        }
+
+        .timeline-item::before {
+            content: '';
+            position: absolute;
+            left: -5px;
+            top: 0;
+            width: 10px;
+            height: 10px;
+            border-radius: 50%;
+            background-color: #dee2e6;
+            border: 2px solid white;
+        }
+
+        /* Sidebar styles */
+        .model-item,
+        .sidebar a {
+            display: block;
+            padding: 0.5rem 1rem;
+            color: #1F2937;
+            text-decoration: none;
+            border-radius: 0.375rem;
+        }
+
+        .model-item:hover,
+        .sidebar a:hover {
+            background-color: #f8f9fa;
+        }
+
+        /* Card styles */
+        .card {
+            border: none;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12);
+            border-radius: 0.5rem;
+        }
+
+        .card-body {
+            padding: 1.5rem;
+        }
+
+        /* Search box styles */
+        .search-box {
+            position: relative;
+        }
+
+        .search-box input {
+            padding-left: 2.5rem;
+            border-radius: 9999px;
+            border: 1px solid #E5E7EB;
+        }
+
+        .small {
+            color: #6B7280;
+            font-size: 0.875rem;
+        }
+    </style>
+</head>
+
+<body>
+    <nav class="navbar px-4 py-3 bg-white border-bottom">
+        <div class="container-fluid">
+            <div class="d-flex align-items-center">
+                <a href="home.html" class="text-decoration-none me-4">
+                    <span class="text-primary fw-bold">Focus</span>
+                    <span class="text-dark fw-bold">Task</span>
+                </a>
+
+                <div class="d-flex gap-4">
+                    <a href="home.html" class="text-decoration-none text-dark fw-medium">Home</a>
+                    <a href="projetos.html" class="text-decoration-none text-muted">Projetos</a>
+                    <a href="#" class="text-decoration-none text-muted">Quadros</a>
+                    <a href="#" class="text-decoration-none text-muted">Planos</a>
+                </div>
+            </div>
+
+            <div class="d-flex align-items-center gap-3">
+                <div class="search-box">
+                    <input type="search" class="form-control rounded-pill" placeholder="Buscar...">
+                </div>
+                <button class="btn btn-link p-0">
+                    <img src="https://via.placeholder.com/30" class="rounded-circle" alt="Profile">
+                </button>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container-fluid py-4">
+        <div class="row g-4">
+            <!-- Left Sidebar -->
+            <div class="col-md-3">
+                <div class="card shadow-sm">
+                    <div class="card-body">
+                        <h5 class="mb-3">Modelos</h5>
+                        <div class="d-flex flex-column gap-2">
+                            <a href="#" class="text-decoration-none text-dark p-2 rounded hover-bg-light">Escola</a>
+                            <a href="#" class="text-decoration-none text-dark p-2 rounded hover-bg-light">Trabalho</a>
+                            <a href="#" class="text-decoration-none text-dark p-2 rounded hover-bg-light">Faculdade</a>
+                            <a href="#" class="text-decoration-none text-dark p-2 rounded hover-bg-light">Diário</a>
+                            <a href="#"
+                                class="text-decoration-none text-dark p-2 rounded hover-bg-light">Medicamentos</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Timeline -->
+            <div class="col-md-6">
+                <div class="card shadow-sm">
+                    <div class="card-body">
+                        <h5 class="mb-4">Timeline</h5>
+                        <div class="timeline">
+                            <div class="timeline-item mb-4 position-relative ps-4 border-start">
+                                <div class="mb-2">Marcos entregou a tarefa do projeto 2.</div>
+                                <small class="text-muted">Há 2 horas</small>
+                            </div>
+
+                            <div class="timeline-item mb-4 position-relative ps-4 border-start">
+                                <div class="mb-2">Fernanda realizou um comentário na entrega da tarefa 5: "Lorem ipsum
+                                    dolor sit amet".</div>
+                                <small class="text-muted">Há 3 horas</small>
+                            </div>
+
+                            <div class="timeline-item mb-4 position-relative ps-4 border-start">
+                                <div class="mb-2">Lembrete: sua tarefa vence em 2 horas.</div>
+                                <small class="text-muted">Há 4 horas</small>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Right Sidebar -->
+            <div class="col-md-3">
+                <div class="card shadow-sm mb-4">
+                    <div class="card-body">
+                        <h5 class="mb-3">Equipes</h5>
+                        <div class="d-flex flex-column gap-2">
+                            <a href="#" class="text-decoration-none text-dark p-2 rounded hover-bg-light">Trabalho
+                                SO2</a>
+                            <a href="#" class="text-decoration-none text-dark p-2 rounded hover-bg-light">Projeto
+                                ASDmxz</a>
+                            <a href="#" class="text-decoration-none text-dark p-2 rounded hover-bg-light">Aplicação
+                                Stuart</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card shadow-sm">
+                    <div class="card-body">
+                        <h5 class="mb-3">Tarefas</h5>
+                        <div class="d-flex flex-column gap-2">
+                            <a href="#" class="text-decoration-none text-dark p-2 rounded hover-bg-light">Alimentar os
+                                cães</a>
+                            <a href="#" class="text-decoration-none text-dark p-2 rounded hover-bg-light">Jogar o
+                                lixo</a>
+                            <a href="#" class="text-decoration-none text-dark p-2 rounded hover-bg-light">Lavar a
+                                louça</a>
+                            <a href="#" class="text-decoration-none text-dark p-2 rounded hover-bg-light">Estudar
+                                PLA</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>
