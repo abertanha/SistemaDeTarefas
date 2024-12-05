@@ -71,7 +71,7 @@ Integrações com Ferramentas Populares: Parcerias com outras plataformas corpor
 
 # Diagramas
 >📄 [Modelagem De Domínio Conceitual](https://drive.google.com/file/d/1OMWVtfuIma9BMTTgMDuIHBXOh53RVudb/view?usp=sharing)
->📄 [Diagrama De Entidade/Relacionamento](https://drive.google.com/file/d/1HAcXvu1xiveHT_UljEJboSGzqagQjRuJ/view?usp=sharing)
+>📄 [Diagrama De Entidade/Relacionamento](https://drive.google.com/file/d/1CRfhCvmuK7QxE-MrN0ZgZ292BjHp7fGv/view?usp=sharing)
 >📄 [Esquema Lógico Relacional](https://drive.google.com/file/d/1kdnK4oYFVm9IbWwil_Eq0E70Ci9Rty78/view?usp=sharing)
 
 # Protótipos
