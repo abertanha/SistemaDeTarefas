@@ -70,9 +70,11 @@ Integrações com Ferramentas Populares: Parcerias com outras plataformas corpor
 >📖 [Jornada do Usuário](https://docs.google.com/document/d/1JXlf-x_lx9ghaJWl8Avbm8CwX0MZrgw7Xj_oV2I60nY/edit?usp=sharing) 
 
 # Diagramas
->📄 [Modelagem De Domínio Conceitual](https://drive.google.com/file/d/1OMWVtfuIma9BMTTgMDuIHBXOh53RVudb/view?usp=sharing)
+>📄 [Modelagem De Domínio Conceitual](https://drive.google.com/file/d/1pY4H5IF6u7VTsUZ-i805f3jgEtoFe4bm/view?usp=sharing)
+>
 >📄 [Diagrama De Entidade/Relacionamento](https://drive.google.com/file/d/1CRfhCvmuK7QxE-MrN0ZgZ292BjHp7fGv/view?usp=sharing)
->📄 [Esquema Lógico Relacional](https://drive.google.com/file/d/1kdnK4oYFVm9IbWwil_Eq0E70Ci9Rty78/view?usp=sharing)
+>
+>📄 [Esquema Lógico Relacional](https://drive.google.com/file/d/13Tcnu9r_zpEssDyuXJLLo8i53VB_Yn0g/view?usp=sharing)
 
 # Protótipos
 >📝 [Protótipo em Baixa Fidelidade](https://github.com/abertanha/SistemaDeTarefas/blob/main/docs/BaixaFidelidade/WhatsApp%20Image%202024-10-06%20at%2018.13.57.jpeg)
