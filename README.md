@@ -3,14 +3,35 @@
 Esse projeto tem como objetivo da obtenção parcial da aprovação  na matéria de Engenharia de Software II do curso tecnólogo em Análise e Desenvolvimento de Sistemas.
 
 # Membros:
->Adriano Bertanha (dono do repositório)
->
->Cauã Rodrigues Viana
->
->Clara Ricioni Bergamo
->
->Filipe Moura
-> 
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/abertanha">
+        <img src="https://avatars.githubusercontent.com/u/110491311" width="100px;"/><br>
+          <b>Adriano Bertanha</b><br>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Karovii">
+        <img src="https://avatars.githubusercontent.com/u/159808804" width="100px;"/><br>
+          <b>Cauã Viana</b><br>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/clararicioni">
+        <img src="https://avatars.githubusercontent.com/u/99998256" width="100px;"/><br>
+          <b>Clara Bergamo</b><br>
+      </a>
+    </td>
+   <td align="center">
+      <a href="https://github.com/filiwili">
+        <img src="https://avatars.githubusercontent.com/u/161388271" width="100px;"/><br>
+          <b>Filipe de Moura</b><br>
+      </a>
+    </td>
+  </tr>
+</table>
+
 # Resumo
 
 Um sistema de gerenciamento de tarefas para equipes é uma ferramenta essencial para otimizar a organização e a execução de projetos colaborativos. Seu objetivo principal é garantir que todas as tarefas sejam atribuídas, monitoradas e concluídas de maneira eficiente, promovendo a transparência, a comunicação e a produtividade dentro da equipe.
@@ -87,6 +108,7 @@ O aplicativo de gerenciamento de tarefas e produtividade proposto visa atender �
 
 >📹 [Apresentação parcial do projeto](https://youtu.be/XvmGAFK6ChM)
 >
+>📹 [Apresentação final do projeto](https://youtu.be/XOa1irRE7LY)
 
 
 
