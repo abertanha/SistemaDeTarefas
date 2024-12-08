@@ -70,7 +70,7 @@ Integrações com Ferramentas Populares: Parcerias com outras plataformas corpor
 >📖 [Jornada do Usuário](https://docs.google.com/document/d/1JXlf-x_lx9ghaJWl8Avbm8CwX0MZrgw7Xj_oV2I60nY/edit?usp=sharing) 
 
 # Diagramas
->📄 [Modelagem De Domínio Conceitual](https://drive.google.com/file/d/1pY4H5IF6u7VTsUZ-i805f3jgEtoFe4bm/view?usp=sharing)
+>📄 [Modelagem De Domínio Conceitual](https://drive.google.com/file/d/1fS4v7Leab5jd35L0ibvP0T4wisewbwE0/view?usp=sharing)
 >
 >📄 [Diagrama De Entidade/Relacionamento](https://drive.google.com/file/d/1CRfhCvmuK7QxE-MrN0ZgZ292BjHp7fGv/view?usp=sharing)
 >
